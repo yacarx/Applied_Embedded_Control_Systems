@@ -1,2 +1,2 @@
-# Applied_Emdedded_Control_Systems
- Emdedded Control Algorithms and Application
+# Applied_Embedded_Control_Systems
+ Embedded Control Algorithms and Application
